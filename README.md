@@ -1,5 +1,5 @@
-![alt text](http://url/to/1.png)
-<h1 align="center">Hi 👋, I'm Likith V K</h1>
+<img src="1.jpg">
+<h1 align=center">Hi 👋, I'm Likith V K</h1>
 <h3 align="center">A passionate student from India, eager to learn...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likith-2004&label=Profile%20views&color=0e75b6&style=flat" alt="likith-2004" /> </p>
