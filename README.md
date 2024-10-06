@@ -1,4 +1,4 @@
-<img src="1.jpg">
+![AI_Generated_Image_2024-10-06_465940494015201](https://github.com/user-attachments/assets/02e228b5-a135-4fa2-96d7-e4a6597c35ff)
 <h1 align=center">Hi 👋, I'm Likith V K</h1>
 <h3 align="center">A passionate student from India, eager to learn...</h3>
 
