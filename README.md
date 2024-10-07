@@ -1,4 +1,4 @@
-https://img.freepik.com/premium-photo/trading-online-digital-illustration-generative-ai_199064-1937.jpg
+![111](https://github.com/user-attachments/assets/b82199b1-3222-41c4-b82e-8af74016531a)
 <h1 align="center">Hi 👋, I'm Likith V K</h1>
 <h3 align="center">A passionate student from India, eager to learn...</h3>
 
