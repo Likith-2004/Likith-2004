@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c71a55e5-c14b-44da-b86b-6ae92c2970c9" alt="Profile Image" width="200" />
+  
+![11](https://github.com/user-attachments/assets/984999f2-b6ca-4a7d-9fda-2886cba9edf4)
 </div>
 
 <h1 align="center">
@@ -86,23 +87,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likith-2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<a href="http://www.github.com/Likith-2004">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Likith-2004&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true" alt="GitHub Commits Graph" />
-</a>
-
 <a href="https://github.com/Likith-2004">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="Top Languages" />
 </a>
 
----
-
-**Top Repositories**
-
-<div align="center">
-  <a href="https://github.com/Likith-2004/Mini-Project-oil-spill-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Likith-2004&repo=Mini-Project-oil-spill-detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="Oil Spill Detection Project" />
-  </a>
-  <a href="https://github.com/Likith-2004/Real_Estate_Price_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Likith-2004&repo=Real_Estate_Price_Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="Real Estate Price Prediction Project" />
-  </a>
-</div>
+<a href="https://github.com/Likith-2004">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true" alt="GitHub Commits Graph" />
+</a>
