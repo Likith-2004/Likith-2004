@@ -1,74 +1,250 @@
 <div align="center">
-  
-![11](https://github.com/user-attachments/assets/984999f2-b6ca-4a7d-9fda-2886cba9edf4)
+
+<!-- ══════════════════ HEADER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:0891B2,100:06B6D4&height=230&section=header&text=LIKITH%20V%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20•%20Deep%20Learning%20%26%20Computer%20Vision&descSize=18&descAlignY=58" width="100%"/>
+
+<!-- ══════════════════ BOOT SEQUENCE (adaptive) ══════════════════ -->
+<a href="https://github.com/Likith-2004">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=70&lines=%3E+model.load()+...+%E2%9C%93+READY;%3E+role%3A+AI+Engineer+%7C+Deep+Learning+%2B+Computer+Vision;%3E+shipping%3A+ML+pipelines+%E2%86%92+production;%3E+status%3A+final-year+AI%2FML+%40+MIT+Mysore">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=800&height=70&lines=%3E+model.load()+...+%E2%9C%93+READY;%3E+role%3A+AI+Engineer+%7C+Deep+Learning+%2B+Computer+Vision;%3E+shipping%3A+ML+pipelines+%E2%86%92+production;%3E+status%3A+final-year+AI%2FML+%40+MIT+Mysore" alt="Typing SVG"/>
+  </picture>
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I+am+Likith+V+K;Computer+Science+(AI)+Student" alt="Typing SVG">
-  </a>
-</h1>
+<!-- ══════════════════ ABOUT ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> System Profile
 
-<h3 align="center">A passionate Computer Science (AI) student from India, eager to learn and grow in the tech world.</h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=likith-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+```python
+class LikithVK(AIEngineer):
 
-- 🌱 I’m currently learning **Django, Flutter**  
-- 📫 Reach me at **likithvk2004@gmail.com**  
-- ⚡ Fun fact: **I thrive on challenges and enjoy competitive problem-solving!**
-<br>
+    def __init__(self):
+        self.role      = "AI Engineering Intern @ DigiBull AI"
+        self.education = "B.E. AI & ML, Maharaja Institute of Technology Mysore"
+        self.evolution = [
+            "Web Development",     # where it began
+            "Computer Vision",     # taught machines to see
+            "Deep Learning",       # taught them to diagnose
+            "Production ML"        # now shipping it
+        ]
+        self.building  = ["ML price-estimation pipelines",
+                          "Document intelligence",
+                          "Explainable medical imaging"]
+        self.learning  = ["Docker", "Kubernetes", "AWS", "Kafka"]
 
-### Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/likith" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/likithvk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/vklikith" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_likith_10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-<br>
+    def fun_fact(self):
+        return "Give me a hard problem and a deadline ⚡"
+```
 
-### Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br clear="right"/>
 
-<br>
+<div align="center">
 
-<h3 align="center">🏆 My GitHub Trophies</h3>
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Likith-2004&theme=onestar&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+`🩺 Explainable medical AI` &nbsp;•&nbsp; `🏭 ML for electronics manufacturing` &nbsp;•&nbsp; `🐳 Docker → Kubernetes`
 
-<br>
+</div>
 
-### Badges:
+<br/>
 
-**My GitHub Stats**
-<br>
-<a href="http://www.github.com/Likith-2004">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likith-2004&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-</a>
-<br>
-<a href="http://www.github.com/Likith-2004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likith-2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</a>
-<br>
-<a href="https://github.com/Likith-2004">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true" alt="GitHub Commits Graph" />
-</a>
-<br>
-<a href="https://github.com/Likith-2004">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="Top Languages" />
-</a>
-<br>
+<!-- ══════════════════ TECH STACK ══════════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="170">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="55" /><br/>
+      <strong>Deep Learning<br/>& Computer Vision</strong>
+    </td>
+    <td>
+      <sub><strong>FRAMEWORKS</strong></sub><br/>
+      <img src="https://img.shields.io/badge/PyTorch-0F766E?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-0F766E?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-YOLOv8-0F766E?style=for-the-badge"/>
+      <br/><br/>
+      <sub><strong>CONCEPTS</strong></sub><br/>
+      <img src="https://img.shields.io/badge/-CNNs-14B8A6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Image_Classification-14B8A6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-OCR-14B8A6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Grad--CAM-14B8A6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Explainable_AI-14B8A6?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="55"/><br/>
+      <strong>Machine Learning<br/>& MLOps</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-0E7490?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-XGBoost-0E7490?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-LightGBM-0E7490?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Docker-0E7490?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-0E7490?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Drift_Monitoring-0E7490?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"/><br/>
+      <strong>Languages<br/>& Data Science</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0891B2?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-0891B2?style=for-the-badge&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-0891B2?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-0891B2?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Power_BI-0891B2?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55"/><br/>
+      <strong>Web<br/>& APIs</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-0284C7?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-REST_APIs-0284C7?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HTML5-0284C7?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-0284C7?style=for-the-badge&logo=css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"/><br/>
+      <strong>Databases<br/>& Tools</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kaggle-2563EB?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ PROJECTS ══════════════════ -->
+## 🚀 Featured Builds
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Brain Tumor Detection</h3>
+      <sub>ResNet18 classifier for 4 MRI tumor classes, with Grad-CAM heatmaps and test-time augmentation, served through a Flask app.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-0F766E?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Grad--CAM-14B8A6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flask-0284C7?style=flat-square&logo=flask&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Likith-2004/brain-tumor-detection"><b>→ View repo</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🫁 Pneumonia Detection</h3>
+      <sub>CNN that flags pneumonia in chest X-rays, with augmentation, explainability overlays and an end-to-end diagnostic web flow.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-0F766E?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-XAI-14B8A6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flask-0284C7?style=flat-square&logo=flask&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Likith-2004/chest-pneumonia-detection"><b>→ View repo</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛢️ Oil Spill Detection</h3>
+      <sub>Segments oil-spill regions in satellite imagery to automate large-scale environmental monitoring.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-0F766E?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-0F766E?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Satellite_Imagery-14B8A6?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/Likith-2004/oil-spill-detection"><b>→ View repo</b></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ STATS (adaptive) ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"> Telemetry
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Likith-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likith-2004&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=0E7490&text_color=24292F&count_private=true&include_all_commits=true" width="49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Likith-2004&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE">
+  <img src="https://streak-stats.demolab.com?user=Likith-2004&hide_border=true&background=00000000&ring=0E7490&fire=0891B2&currStreakLabel=0891B2&sideLabels=24292F&sideNums=24292F&dates=57606A&currStreakNum=24292F" width="49%"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=24292F&langs_count=8" width="49%"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=00000000&color=22D3EE&line=38BDF8&point=A5F3FC&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=00000000&color=0891B2&line=0E7490&point=16A34A&area=true&hide_border=true" width="97%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ SNAKE (adaptive) ══════════════════ -->
+<div align="center">
+
+## 🐍 The Model Training On My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likith-2004/Likith-2004/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Likith-2004/Likith-2004/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ CONNECT ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28"> Establish Connection
+
+<div align="center">
+
+<a href="https://linkedin.com/in/likith-vk-929b5b28d"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kaggle.com/vklikith"><img src="https://img.shields.io/badge/Kaggle-0891B2?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<!-- Add your portfolio link and uncomment:
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+-->
+<a href="mailto:likithvk2004@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Likith-2004&label=VISITORS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%22Models+are+easy.+Shipping+them+is+the+job.%22;%3E+model.save()+...+see+you+soon+%F0%9F%91%8B">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=0E7490&center=true&vCenter=true&width=600&lines=%22Models+are+easy.+Shipping+them+is+the+job.%22;%3E+model.save()+...+see+you+soon+%F0%9F%91%8B" alt="Footer typing"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0891B2,100:0E7490&height=130&section=footer" width="100%"/>
+
+</div>
