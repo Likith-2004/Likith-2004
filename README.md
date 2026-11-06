@@ -183,8 +183,8 @@ class LikithVK(AIEngineer):
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Likith-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likith-2004&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=0E7490&text_color=24292F&count_private=true&include_all_commits=true" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-nine.vercel.app/api?username=Likith-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats-theta-nine.vercel.app/api?username=Likith-2004&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=0E7490&text_color=24292F&count_private=true&include_all_commits=true" width="49%"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Likith-2004&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE">
@@ -192,15 +192,19 @@ class LikithVK(AIEngineer):
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=24292F&langs_count=8" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-nine.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&langs_count=8">
+  <img src="https://github-readme-stats-theta-nine.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=24292F&langs_count=8" width="49%"/>
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=00000000&color=22D3EE&line=38BDF8&point=A5F3FC&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likith-2004&bg_color=00000000&color=0891B2&line=0E7490&point=16A34A&area=true&hide_border=true" width="97%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Likith-2004&theme=tokyonight&utcOffset=5.5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Likith-2004&theme=default&utcOffset=5.5" width="49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Likith-2004&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Likith-2004&theme=default" width="49%"/>
 </picture>
 
 </div>
