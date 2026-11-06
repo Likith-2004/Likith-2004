@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══════════════════ HEADER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:0891B2,100:06B6D4&height=230&section=header&text=LIKITH%20V%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20•%20Deep%20Learning%20%26%20Computer%20Vision&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:0891B2,100:06B6D4&height=230&section=header&text=LIKITH%20V%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%26amp%3B%20Computer%20Vision&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- ══════════════════ BOOT SEQUENCE (adaptive) ══════════════════ -->
 <a href="https://github.com/Likith-2004">
