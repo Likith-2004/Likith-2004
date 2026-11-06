@@ -195,16 +195,23 @@ class LikithVK(AIEngineer):
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-nine.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&langs_count=8">
   <img src="https://github-readme-stats-theta-nine.vercel.app/api/top-langs/?username=Likith-2004&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=24292F&langs_count=8" width="49%"/>
 </picture>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Likith-2004&theme=tokyonight&utcOffset=5.5">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Likith-2004&theme=default&utcOffset=5.5" width="49%"/>
 </picture>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ 3D CONTRIBUTION SKYLINE (self-hosted SVG — never breaks) ══════════════════ -->
+<div align="center">
+
+## 🏙️ Contribution Skyline
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Likith-2004&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Likith-2004&theme=default" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likith-2004/Likith-2004/main/profile-3d-contrib/profile-night-green.svg">
+  <img src="https://raw.githubusercontent.com/Likith-2004/Likith-2004/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 </picture>
 
 </div>
